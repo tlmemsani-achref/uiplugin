@@ -52,9 +52,7 @@ after setting the joystick component in the designer view switch to Graph editor
 
 
 
-```
 <iframe src="https://blueprintue.com/render/muzau6x1/" scrolling="no" allowfullscreen></iframe>
-```
 
 {% embed url="https://blueprintue.com/render/muzau6x1/" %}
 
