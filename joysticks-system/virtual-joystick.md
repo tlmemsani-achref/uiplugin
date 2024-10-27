@@ -41,9 +41,6 @@ you can either follow the video bellow or the instructions
   * Max Joystick [size ](#user-content-fn-4)[^4]: the maximum joystick size that player can set when editing
 
 {% embed url="https://youtu.be/G5VI1B_coDg" %}
-<iframe src="https://blueprintue.com/render/qhzb-vso/" width="100%" height="500" frameborder="0"></iframe>
-
-<iframe src="https://blueprintue.com/render/rfma1zc5/" scrolling="no" width="100%" height="400px"></iframe>
 
 
 ### in graph setup
