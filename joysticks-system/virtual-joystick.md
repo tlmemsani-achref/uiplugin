@@ -42,6 +42,10 @@ you can either follow the video bellow or the instructions
 
 {% embed url="https://youtu.be/G5VI1B_coDg" %}
 
+```html
+<iframe src="https://blueprintue.com/render/qhzb-vso/" width="100%" height="500" frameborder="0"></iframe>
+```
+
 
 ### in graph setup
 
