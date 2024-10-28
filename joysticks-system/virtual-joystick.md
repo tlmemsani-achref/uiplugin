@@ -46,12 +46,12 @@ you can either follow the video bellow or the instructions
 <iframe src="https://blueprintue.com/render/qhzb-vso/" width="100%" height="500" frameborder="0"></iframe>
 ```
 
-
 ### in graph setup
 
 after setting the joystick component in the designer view switch to Graph editor and follow the instructions bellow
 
-1. select
+1. add new event and call it `Initialize MCK coponents` and call it in Event Pre construct ![](<../.gitbook/assets/Screenshot 2024-10-28 180501.png>)
+2. in VARIABLES section Get `Joystick1` into your graph and call `MCK Initialize Joystick Areas State` from that variable
 
 [^1]: is the length the player need to swipe his thumb to start sprinting "from center of joystick to top middle is 1 unit "
 
